@@ -9,3 +9,7 @@ the second task gets us to write a script that displays all the files and direct
 Third Task:
 	Description:
 the third task gets us to write a script that changes directories to the home directorie which is in our case is /root
+
+Fourth Task:
+	Description:
+the fourth task gets us to write a script that displays the directory content is a longer format
