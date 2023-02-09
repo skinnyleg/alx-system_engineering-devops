@@ -62,6 +62,10 @@ Sixteen Task:
 	Description:
 the sixteen task gets us to move all files that starts with an uppercase to a different folder
 
+Seventeen Task:
+	Description:
+the seventeen task gets us to delete all files ending with the symbol ~
+
 
 
 
