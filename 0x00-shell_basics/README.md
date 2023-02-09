@@ -49,3 +49,7 @@ the twelve task gets to write a script that displays the content of three direct
 Thirteeth Task:
 	Description:
 the thirteen task gets us to show a file type using the command file
+
+Fourteen Task:
+	Description:
+the fourteen task gets us to create a symbolik link to /bin/ls
