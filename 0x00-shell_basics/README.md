@@ -33,3 +33,7 @@ the eight task gets to move a file from /tmp to /tmp/my_first_directory using sc
 Ninth Task:
 	Description:
 the ninth task gets us to delete a file from /tmp/my_first_directory which is betty
+
+Tenth Task:
+	Description:
+the tenth task gets us to delete a directory my_first_directory
