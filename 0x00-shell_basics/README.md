@@ -29,3 +29,7 @@ the seventh task gets us to create a directory in /tmp using script
 Eigth Task:
 	Description:
 the eight task gets to move a file from /tmp to /tmp/my_first_directory using script
+
+Ninth Task:
+	Description:
+the ninth task gets us to delete a file from /tmp/my_first_directory which is betty
