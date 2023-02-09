@@ -66,6 +66,9 @@ Seventeen Task:
 	Description:
 the seventeen task gets us to delete all files ending with the symbol ~
 
+Eighteen Task:
+	Description:
+the eighteen task gets us to create multiple directories
 
 
 
