@@ -57,3 +57,11 @@ the fourteen task gets us to create a symbolik link to /bin/ls
 Fifteen Task:
 	Description:
 the fifteen task gets us to copy all html files in the current directory to the parent directory while obeying these rules not copying a file that already exists or copy them if they are newer vesions than the parent directory.
+
+Sixteen Task:
+	Description:
+the sixteen task gets us to move all files that starts with an uppercase to a different folder
+
+
+
+
