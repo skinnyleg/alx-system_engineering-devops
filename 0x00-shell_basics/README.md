@@ -45,3 +45,7 @@ the eleventh task gets us to change to the previous directory
 Twelve Task:
 	Description:
 the twelve task gets to write a script that displays the content of three directories which are the current directory and the parent directory and the boot directory 
+
+Thirteeth Task:
+	Description:
+the thirteen task gets us to show a file type using the command file
