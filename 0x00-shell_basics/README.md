@@ -70,5 +70,8 @@ Eighteen Task:
 	Description:
 the eighteen task gets us to create multiple directories
 
+Ninteen Task:
+	Description:
+the ninteen task gets us to list all files and directories while respecting some rules
 
 
