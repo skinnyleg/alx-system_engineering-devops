@@ -41,3 +41,7 @@ the tenth task gets us to delete a directory my_first_directory
 Eleventh Task:
 	Description:
 the eleventh task gets us to change to the previous directory
+
+Twelve Task:
+	Description:
+the twelve task gets to write a script that displays the content of three directories which are the current directory and the parent directory and the boot directory 
