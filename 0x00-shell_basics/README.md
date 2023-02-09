@@ -22,3 +22,6 @@ Sixth Task:
 	Description:
 the Sixth task gets us to write a script that displays the directory content is a longer format and shows hidden content and group and user ID displayed numerically
 
+Seventh Task:
+	Description:
+the seventh task gets us to create a directory in /tmp using script
