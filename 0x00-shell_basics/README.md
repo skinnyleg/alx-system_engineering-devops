@@ -13,3 +13,7 @@ the third task gets us to write a script that changes directories to the home di
 Fourth Task:
 	Description:
 the fourth task gets us to write a script that displays the directory content is a longer format
+
+Fifth Task:
+	Description:
+the fifth task gets us to write a script that displays the directory content is a longer format and shows hidden content
