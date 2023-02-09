@@ -25,3 +25,7 @@ the Sixth task gets us to write a script that displays the directory content is 
 Seventh Task:
 	Description:
 the seventh task gets us to create a directory in /tmp using script
+
+Eigth Task:
+	Description:
+the eight task gets to move a file from /tmp to /tmp/my_first_directory using script
