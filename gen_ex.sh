@@ -18,4 +18,4 @@ git status
 
 git commit -m "$commit"
 
-git push https://skinnyleg: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@github.com/skinnyleg/alx-system_engineering-devops.git --all
+git push https://skinnyleg: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@github.com/skinnyleg/alx-system_engineering-devops.git --all
