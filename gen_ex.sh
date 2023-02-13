@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="0x01-shell_permissions/"
+file="0x02-shell_redirections/"
 file+=$1
 command=$2
 commit=$3
